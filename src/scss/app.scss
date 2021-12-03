@@ -30,12 +30,12 @@ padding:25px 0;
 }
 
 section {
-    float:left;
-    width:100%;
-    margin-right: -280px;
+    padding-right: 280px;
 }
 
 aside {
-    float:left;
-    width:280px;
+    width: 280px;
+    position: absolute;
+    right: 0;
+    top: 0;
 }
